@@ -54,5 +54,9 @@ Näyttää kuka käyttäjä on kirjoittanut minkäkin rivin tiedostosta.
 
 # Tehtävä e:
 
+Loin hakemistoon teksti tiedoston jonka lisäsin sitten repositoryyn ilman committia.
 
+*cat > testi.txt*
+
+*git add testi.txt*
 
