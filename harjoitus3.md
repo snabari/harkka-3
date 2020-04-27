@@ -1,4 +1,4 @@
-#Palvelinten Hallinta kevät 2020 harjoitus 3
+# Palvelinten Hallinta kevät 2020 harjoitus 3
 
 Käytössäni on Win10 pöytäkone(Ryzen 5 3600, 16Gb 3200mhz, AMD RX 480 8Gb).
 Virtualbox ympäristö käytössä jossa on xubuntu 18.04 virtuaalikone.
