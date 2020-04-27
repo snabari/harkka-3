@@ -19,8 +19,8 @@ Repositorylle annetaan nimi, valitaan julkiseksi ja valitaan lisenssi "GNU Gener
 Xubuntussa saa gitin asennettua komennolla
   sudo apt-get -y install git
 Kerrotaan gitille sposti ja nimi jotta tiimiläisen näkemät tämän tiedon "git log":ssa. Laitetaan myös koneen muistamaan salasanan tunniksi.
-  git ocnfig --global user.email "mattimeikalainen@example.com"
-  git config --global user.name "Mark Rybin"
-  git config --global credential.helper "cache --timeout=3600"
+-git ocnfig --global user.email "mattimeikalainen@example.com"
+-git config --global user.name "Mark Rybin"
+-git config --global credential.helper "cache --timeout=3600"
 Kun repository on luotu painamalla vihreää clone nappia paljaltuu repositoryn osoite minkä avulla saadaan hakemisto omalle koneelle käyttämällä komentoa
-  git clone https://github.com/snabari/harkka-3.git
+-git clone https://github.com/snabari/harkka-3.git
