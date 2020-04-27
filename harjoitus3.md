@@ -35,3 +35,5 @@ Laitetaan myös koneen muistamaan salasanan tunniksi.
 Kun repository on luotu painamalla vihreää clone nappia paljaltuu repositoryn osoite minkä avulla saadaan hakemisto omalle koneelle käyttämällä komentoa
 
 *git clone https://github.com/snabari/harkka-3.git*
+
+Komennolla *git add. && git commit; git pull && push* saadaan päivitettyä uusimmat muutokset.
