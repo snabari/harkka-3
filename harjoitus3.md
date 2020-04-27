@@ -37,3 +37,14 @@ Kun repository on luotu painamalla vihreää clone nappia paljaltuu repositoryn 
 *git clone https://github.com/snabari/harkka-3.git*
 
 Komennolla *git add. && git commit; git pull && push* saadaan päivitettyä uusimmat muutokset.
+
+# Tehtävä d:
+
+**Git Log**
+
+Näyttää kaikki repositoryyn ajetut muutokset sekä commitit, sisältö on commit token, committaaja, commitin aika ja päivitetty tiedosto.
+
+**Git Diff**
+
+
+
