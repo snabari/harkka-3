@@ -46,5 +46,13 @@ Näyttää kaikki repositoryyn ajetut muutokset sekä commitit, sisältö on com
 
 **Git Diff**
 
+Näyttää muutokset ja eron paikallisen hakemiston ja reposirotyn välillä.
+
+**Git Blame**
+
+Näyttää kuka käyttäjä on kirjoittanut minkäkin rivin tiedostosta.
+
+# Tehtävä e:
+
 
 
