@@ -11,7 +11,7 @@ e) Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset ‘gi
 
 f) Tee uusi salt-moduli. Voit asentaa ja konfiguroida minkä vain uuden ohjelman: demonin, työpöytäohjelman tai komentokehotteesta toimivan ohjelman. Käytä tarvittaessa ‘find -printf “%T+ %p\n”|sort’ löytääksesi uudet asetustiedostot. (Tietysti eri ohjelma kuin aiemmissa tehtävissä, tarkoitushan on harjoitella Salttia)
 
-Tehtävä a:
+# Tehtävä a:
 Aloitin tehtävän seuraamalla Tero Karvisen [ohjeilta](http://terokarvinen.com/2016/publish-your-project-with-github). Joissa selitettiin miten github otetaan käyttöön.
 
 github.com sivulla voi rekisteröityä ja luoda uuden Repositoryn.
