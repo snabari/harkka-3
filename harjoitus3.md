@@ -54,9 +54,46 @@ Näyttää kuka käyttäjä on kirjoittanut minkäkin rivin tiedostosta.
 
 # Tehtävä e:
 
-Loin hakemistoon teksti tiedoston jonka lisäsin sitten repositoryyn ilman committia.
+Loin hakemistoon teksti tiedoston ilman committia.
 
 *cat > testi.txt*
 
 *git add testi.txt*
 
+Poistan sen komennolla
+
+*git reset --hard*
+
+# Tehtävä f
+
+Loin kansion komennolla ja siihen sisällön komennoilla
+
+*sudo mkdir /srv/salt/dolphin/*
+
+*cd /srv/salt/dolphin/*
+
+*sudo nano init.sls*
+
+*dolphin-emu:*
+
+  *pkg.installed*
+  
+Jonka jälkeen tallennetaan sls tiedosto ja ajetaan saltissa
+
+*sudo salt '*' state.apply dolphin*
+
+Hetken päästä dolphin emulaattori oli asennettu koneelle.
+
+# Lähteet
+
+https://guides.github.com/features/mastering-markdown/
+
+https://www.atlassian.com/git/tutorials/saving-changes/git-diff
+
+https://git-scm.com/docs/git-blame
+
+https://docs.saltstack.com/en/master/topics/tutorials/starting_states.html
+
+https://github.com/terokarvinen/sirotin
+
+http://terokarvinen.com/2016/publish-your-project-with-github
